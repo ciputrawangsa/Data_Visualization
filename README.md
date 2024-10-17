@@ -1,4 +1,4 @@
-# Data Visualisasi📊 - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+# Visualisasi Data Penjualan📊 - ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
 Repositori ini berisi proyek visualisasi data menggunakan **Tableau**. Proyek ini bertujuan untuk mengeksplorasi konsep penting dalam visualisasi data, dengan fokus pada pembuatan representasi visual yang jelas dan berdampak dari data yang tersedia. Repositori ini mencakup file Jupyter Notebook yang menjelaskan proses secara menyeluruh, mulai dari eksplorasi data hingga menghasilkan visualisasi yang informatif.
 
@@ -70,4 +70,5 @@ Dalam proyek ini, kami menggunakan **Tableau** untuk menganalisis dan memvisuali
 
 ## Author ✍️
 **Ciputra Wangsa**
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciputra-wangsa/)
