@@ -3,14 +3,14 @@
 Repositori ini berisi proyek visualisasi data menggunakan **Tableau**. Proyek ini bertujuan untuk mengeksplorasi konsep penting dalam visualisasi data, dengan fokus pada pembuatan representasi visual yang jelas dan berdampak dari data yang tersedia. Repositori ini mencakup file Jupyter Notebook yang menjelaskan proses secara menyeluruh, mulai dari eksplorasi data hingga menghasilkan visualisasi yang informatif.
 
 ## Daftar Isi 🗒️
-1. [Link Terkait Project](#link-terkait-project)
-2. [Project Overview](#project-overview)
-3. [Metode yang digunakan](#metode-yang-digunakan)
-4. [File yang Tersedia](#file-yang-tersedia)
-5. [Cara Menggunakan Project Ini](#cara-menggunakan-proyek-ini)
-6. [Dependencies](#dependencies)
-7. [Libraries](#libraries)
-8. [Author](#author)
+1. [Link Terkait Project](##Link-Terkait-Project)
+2. [Project Overview](##Project-Overview)
+3. [Metode yang digunakan](##Metode-yang-digunakan)
+4. [File yang Tersedia](##File-yang-Tersedia)
+5. [Cara Menggunakan Project Ini](##Cara-Menggunakan-Project-Ini)
+6. [Dependencies](##Dependencies)
+7. [Libraries](##Libraries)
+8. [Author](##Author)
 
 ## Link Terkait Project ⛓️‍💥
 
