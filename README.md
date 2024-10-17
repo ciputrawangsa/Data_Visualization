@@ -9,7 +9,7 @@ Repositori ini berisi proyek visualisasi data menggunakan **Tableau**. Proyek in
 4. [File yang Tersedia](#file-yang-tersedia)
 5. [Cara Menggunakan Project Ini](#cara-menggunakan-project-ini)
 6. [Dependencies](#dependencies)
-7. [Libraries](#libraries)
+7. [Libraries](#libraries-)
 8. [Author](#author)
 
 ## Link Terkait Project ⛓️‍💥
