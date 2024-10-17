@@ -3,11 +3,16 @@
 Repositori ini berisi proyek visualisasi data menggunakan **Tableau**. Proyek ini bertujuan untuk mengeksplorasi konsep penting dalam visualisasi data, dengan fokus pada pembuatan representasi visual yang jelas dan berdampak dari data yang tersedia. Repositori ini mencakup file Jupyter Notebook yang menjelaskan proses secara menyeluruh, mulai dari eksplorasi data hingga menghasilkan visualisasi yang informatif.
 
 ## Daftar Isi
-1. [Project Overview](#ikhtisar-proyek)
-2. [File yang Tersedia](#file-yang-tersedia)
-3. [Cara Menggunakan Project Ini](#cara-menggunakan-proyek-ini)
-4. [Dependencies](#dependencies)
-5. [Link Terkait Project](#link-terkait-project)
+1. [Link Terkait Project](#link-terkait-project)
+2. [Project Overview](#ikhtisar-proyek)
+3. [File yang Tersedia](#file-yang-tersedia)
+4. [Cara Menggunakan Project Ini](#cara-menggunakan-proyek-ini)
+5. [Dependencies](#dependencies)
+
+## Link Terkait Project
+
+ - [Dataset](https://www.kaggle.com/datasets/kartikeybartwal/ecommerce-product-recommendation-collaborative/data)
+ - [Visualisasi Tableau](https://public.tableau.com/views/DataVisualization_17249250434480/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Project Overview
 
@@ -49,11 +54,6 @@ Dalam proyek ini, kami menggunakan **Tableau** untuk menganalisis dan memvisuali
 - Tableau
 - Kaggle
 - Libraries: Pandas, Scipy, Plotly
-
-## Link Terkait Project
-
- - [Dataset](https://www.kaggle.com/datasets/kartikeybartwal/ecommerce-product-recommendation-collaborative/data)
- - [Tableau](https://public.tableau.com/views/DataVisualization_17249250434480/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Author ✍️
