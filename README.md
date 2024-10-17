@@ -5,11 +5,12 @@ Repositori ini berisi proyek visualisasi data menggunakan **Tableau**. Proyek in
 ## Daftar Isi 🗒️
 1. [Link Terkait Project](#link-terkait-project)
 2. [Project Overview](#project-overview)
-3. [File yang Tersedia](#file-yang-tersedia)
-4. [Cara Menggunakan Project Ini](#cara-menggunakan-proyek-ini)
-5. [Dependencies](#dependencies)
-6. [Libraries](#libraries)
-7. [Author](#author)
+3. [Metode yang digunakan](#metode-yang-digunakan)
+4. [File yang Tersedia](#file-yang-tersedia)
+5. [Cara Menggunakan Project Ini](#cara-menggunakan-proyek-ini)
+6. [Dependencies](#dependencies)
+7. [Libraries](#libraries)
+8. [Author](#author)
 
 ## Link Terkait Project ⛓️‍💥
 
@@ -28,6 +29,12 @@ Dalam proyek ini, kami menggunakan **Tableau** untuk menganalisis dan memvisuali
 
 3. **Analisis**:
     - Menginterpretasikan hasil visualisasi untuk mengidentifikasi insight yang dapat diterapkan pada pengambilan keputusan bisnis atau strategi lain.
+
+## Metode yang Digunakan 🛠️
+
+- Statistik Inferensial
+- Statistik Deskriptif
+- Visualisasi Data
 
 ## File yang Tersedia 📂
 
