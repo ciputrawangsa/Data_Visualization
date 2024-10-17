@@ -3,14 +3,14 @@
 Repositori ini berisi proyek visualisasi data menggunakan **Tableau**. Proyek ini bertujuan untuk mengeksplorasi konsep penting dalam visualisasi data, dengan fokus pada pembuatan representasi visual yang jelas dan berdampak dari data yang tersedia. Repositori ini mencakup file Jupyter Notebook yang menjelaskan proses secara menyeluruh, mulai dari eksplorasi data hingga menghasilkan visualisasi yang informatif.
 
 ## Daftar Isi 🗒️
-1. [Link Terkait Project](#link-terkait-project)
-2. [Project Overview](#project-overview)
-3. [Metode yang Digunakan](#metode-yang-digunakan)
-4. [File yang Tersedia](#file-yang-tersedia)
-5. [Cara Menggunakan Project Ini](#cara-menggunakan-project-ini)
-6. [Dependencies](#dependencies)
+1. [Link Terkait Project](#link-terkait-project-)
+2. [Project Overview](#project-overview-)
+3. [Metode yang Digunakan](#metode-yang-digunakan-)
+4. [File yang Tersedia](#file-yang-tersedia-)
+5. [Cara Menggunakan Project Ini](#cara-menggunakan-project-ini-)
+6. [Dependencies](#dependencies-)
 7. [Libraries](#libraries-)
-8. [Author](#author)
+8. [Author](#author-)
 
 ## Link Terkait Project ⛓️‍💥
 
@@ -68,6 +68,6 @@ Dalam proyek ini, kami menggunakan **Tableau** untuk menganalisis dan memvisuali
 - Scipy
 - Plotly
 
-## Author
+## Author ✍️
 **Ciputra Wangsa**
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ciputra-wangsa/)
